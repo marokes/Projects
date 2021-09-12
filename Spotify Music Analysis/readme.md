@@ -1,9 +1,7 @@
 Using Spotify Data, which music genre is the most popular these past years?
 Which of today's top artists were still on top 3 years ago and never left the charts?
 
-Datasets: Top Songs from Spotify
-
-          Songs with Genre from Kaggle
+Datasets: Top Songs from Spotify and Songs with Genre from Kaggle
 
 Folders:
 
